@@ -1,0 +1,40 @@
+GoSpace,Go,200,,,,,,,,
+Street,Spidey Avenue,60,50,2,10,30,90,160,250,DARKRED
+CardDrawSpace,S.H.I.E.L.D Chest,,,,,,,,,
+Street,Daredevil Avenue,60,50,4,20,60,180,320,450,DARKRED
+TaxSpace,Civillian Tax,200,,,,,,,,
+Railroad,Quinjet,200,,,,,,,,
+Street,Punisher Avenue,100,50,6,30,90,270,400,550,BLACK
+CardDrawSpace,S.H.I.E.L.D Chest,,,,,,,,,
+Street,Fantastic Avenue,100,50,6,30,90,270,400,550,BLACK
+Street,She-Hulk Avenue,120,60,8,40,100,300,450,600,BLACK
+JailSpace,The Raft,,,,,,,,,
+Street,Phoenix Place,140,100,10,50,150,450,625,750,DARKORANGE
+Utility,Oscorp Industries,150,,,,,,,,
+Street,Cyclops Avenue,140,100,10,50,150,450,625,750,DARKORANGE
+Street,Nightcrawler Avenue,160,100,12,60,180,500,700,900,DARKORANGE
+Railroad,X-Jet,200,,,,,,,,
+Street,Wolverine Place,180,100,14,70,200,550,750,950,GOLD
+CardDrawSpace,S.H.I.E.L.D Chest,,,,,,,,,
+Street,Storm Avenue,180,100,14,70,200,550,750,950,GOLD
+Street,Xavier Avenue,200,100,16,80,220,600,800,1000,GOLD
+FreeParkingSpace,Stark Grant,,,,,,,,,
+Street,Falcon Avenue,220,150,18,90,250,700,875,1050,GREY
+CardDrawSpace,S.H.I.E.L.D Chest,,,,,,,,,
+Street,Panther Avenue,220,150,18,90,250,700,875,1050,GREY
+Street,Scarlet Avenue,240,150,20,100,300,750,925,1100,GREY
+Railroad,The Excelsior,200,,,,,,,,
+Street,Thor Avenue,260,150,22,110,330,800,975,1150,PURPLE
+Street,Hawkeye Avenue,260,150,22,110,330,800,975,1150,PURPLE
+Utility,Fisk Industries,150,,,,,,,,
+Street,Widow Gardens,280,150,24,120,360,850,1025,1200,PURPLE
+GoToJailSpace,Go To Raft,,,,,,,,,
+Street,Rogers Avenue,300,200,26,130,390,900,1100,1275,DARKOLIVEGREEN
+Street,Hulk Avenue,300,200,26,130,390,900,1100,1275,DARKOLIVEGREEN
+CardDrawSpace,S.H.I.E.L.D Chest,,,,,,,,,
+Street,WestView Avenue,320,200,28,150,450,1000,1200,1400,DARKOLIVEGREEN
+Railroad,S.H.I.E.L.D Helicarrier,200,,,,,,,,
+CardDrawSpace,S.H.I.E.L.D Chest,,,,,,,,,
+Street,S.H.I.E.L.D Facility,350,200,35,175,500,1100,1300,1500,ORANGE
+TaxSpace,Avengers Tax,100,,,,,,,,
+Street,Stark Tower,400,200,50,200,600,1400,1700,2000,ORANGE

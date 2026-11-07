@@ -1,0 +1,19 @@
+# File: template.csv
+# Author: Tyler Ohme
+# Purpose: This file describes the input format of the board CSV files.
+# The first field is the type of tile being created, and is case sensitive.
+# The second is always the name.
+# The following ones are fields that depend on the type of tile being created and are always integers.
+# Format: TypeFlag, String Name, args (optional, dependant on type)
+# Note: There should not be spaces between comma seperated values, and each line should have exactly 1 definition
+
+# List of valid commands and parameters:
+Go: GoSpace, Name,Pass Go amount
+Tax: TaxSpace,Name,Tax amount
+Street Property: Street,Name,Buy Price,Build Price,Rent 0 House,Rent 1 House,Rent 2 House, Rent 3 House,Rent 4 House,Rent Hotel
+Railroad Property: Railroad,Name,Buy Price
+Utility Property: Utility,Name,Buy Price
+Jail: JailSpace,Name
+Go To Jail Tile: GoToJailSpace,Name
+Free Parking: FreeParkingSpace,Name
+Community Chest: CardDrawSpace,Name

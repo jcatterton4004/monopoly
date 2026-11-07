@@ -1,0 +1,15 @@
+{
+	"file": {
+		"settings": {
+			"humanPlayerCount": 1,
+			"computerPlayerCount": 1,
+			"goAmount": 200,
+			"startingBalance": 1500,
+			"propertyScale": 100,
+			"freeParking": true,
+			"skipPurchases": true,
+			"trading": true,
+			"theme": "Atlantic City"
+		}
+	}
+}

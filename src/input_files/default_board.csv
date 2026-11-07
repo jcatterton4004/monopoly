@@ -1,0 +1,40 @@
+GoSpace,Go,200
+Street,Mediterranean Avenue,60,50,2,10,30,90,160,250,BROWN
+CardDrawSpace,Community Chest
+Street,Baltic Avenue,60,50,4,20,60,180,320,450,BROWN
+TaxSpace,Income Tax,200
+Railroad,Reading Railroad,200
+Street,Oriental Avenue,100,50,6,30,90,270,400,550,LIGHTBLUE
+CardDrawSpace,Community Chest
+Street,Vermont Avenue,100,50,6,30,90,270,400,550,LIGHTBLUE
+Street,Connecticut Avenue,120,60,8,40,100,300,450,600,LIGHTBLUE
+JailSpace,Jail
+Street,St. Charles Place,140,100,10,50,150,450,625,750,PINK
+Utility,Electric Company,150
+Street,States Avenue,140,100,10,50,150,450,625,750,PINK
+Street,Virginia Avenue,160,100,12,60,180,500,700,900,PINK
+Railroad,Pennsylvania Railroad,200
+Street,St. James Place,180,100,14,70,200,550,750,950,ORANGE
+CardDrawSpace,Community Chest
+Street,Tennessee Avenue,180,100,14,70,200,550,750,950,ORANGE
+Street,New York Avenue,200,100,16,80,220,600,800,1000,ORANGE
+FreeParkingSpace,Free Parking
+Street,Kentucky Avenue,220,150,18,90,250,700,875,1050,RED
+CardDrawSpace,Community Chest
+Street,Indiana Avenue,220,150,18,90,250,700,875,1050,RED
+Street,Illinois Avenue,240,150,20,100,300,750,925,1100,RED
+Railroad,B. & O. Railroad,200
+Street,Atlantic Avenue,260,150,22,110,330,800,975,1150,YELLOW
+Street,Ventnor Avenue,260,150,22,110,330,800,975,1150,YELLOW
+Utility,Water Works,150
+Street,Marvin Gardens,280,150,24,120,360,850,1025,1200,YELLOW
+GoToJailSpace,Go To Jail
+Street,Pacific Avenue,300,200,26,130,390,900,1100,1275,GREEN
+Street,North Carolina Avenue,300,200,26,130,390,900,1100,1275,GREEN
+CardDrawSpace,Community Chest
+Street,Pennsylvania Avenue,320,200,28,150,450,1000,1200,1400,GREEN
+Railroad,Short Line,200
+CardDrawSpace,Community Chest
+Street,Park Place,350,200,35,175,500,1100,1300,1500,DARKBLUE
+TaxSpace,Luxury Tax,100
+Street,Boardwalk,400,200,50,200,600,1400,1700,2000,DARKBLUE

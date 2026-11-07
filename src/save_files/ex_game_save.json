@@ -1,0 +1,63 @@
+// This file serves as an example of what a save file should look like. 
+// Some key definitions:
+// ownedProperties - a list of the int indices of each owned property
+// heldCards - the card description as the 'key', and the int effect as the 'value'
+// buildings - all streets that have buildings. it consists of the following line format: Index, numHouses, numHotels
+// date - the last time the file was written to, and is solely used to display it in the load window
+// Everything else is just a variable name and value
+// Important note: The type of bracket matters. They should always match how they are in this file.
+// Author: Tyler Ohme
+{
+	"file": {
+		"date": "5/1/2026 1:15 PM",
+		"settings": {
+			"humanPlayerCount": 1,
+			"computerPlayerCount": 1,
+			"goAmount": 200,
+			"startingBalance": 1500,
+			"propertyScale": 100,
+			"freeParking": true,
+			"skipPurchases": true,
+			"trading": true,
+			"theme": "Atlantic City"
+		},
+		"curPlayer": 1,
+		"players": {
+			"Player 1": {
+				"isHuman": true,
+				"balance": 1500,
+				"location": 0,
+				"houses": 0,
+				"hotels": 0,
+				"lastRoll": 0,
+				"jailRollCount": 0,
+				"isBankrupt": false,
+				"isJailed": false,
+				"ownedProperties": [
+				],
+				"heldCards": {
+					"Get out of Jail Free.": 0
+				}
+			},
+			"Player 2": {
+				"isHuman": false,
+				"balance": 1500,
+				"location": 1,
+				"houses": 1,
+				"hotels": 0,
+				"lastRoll": 0,
+				"jailRollCount": 0,
+				"isBankrupt": false,
+				"isJailed": false,
+				"ownedProperties": [
+					1
+				],
+				"heldCards": {
+				}
+			}
+		},
+		"buildings": [
+			1, 1, 0
+		]
+	}
+}
