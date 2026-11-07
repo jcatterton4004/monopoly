@@ -1,1 +1,1 @@
-# monopoly
+This repository contains the files to run a digital game of Monopoly. I completed this project as a part of a group of 3 for the course CSC 335: Object Oriented Programming in my Spring 2026 semester. The backend language for this project is Java and the frontend was built using JavaFX. The team and I applied Scrum practices to our project, working in iterative sprints that involved daily scrums, sprint planning and review sessions, and meetings with the product owner. The classes follow a Model-View-Controller architecture.
